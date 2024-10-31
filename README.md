@@ -5,7 +5,7 @@ The python functions in this repository contain the code for the AWS Lambda func
 At the moment there are 2 frontends that use this backend:
 - Flutter frontend
   - code: https://github.com/edwinbulter/klik_flutter
-  - web-app: https://main.d1nbmlz8pl3t4z.amplifyapp.com/
+  - web-app: https://main.dv7o5mle7kpe3.amplifyapp.com/
 - React frontend
   - code: https://github.com/edwinbulter/klik_react
   - web-app: https://main.d3sz66opung9mh.amplifyapp.com/ 
